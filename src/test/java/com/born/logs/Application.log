@@ -1,0 +1,153 @@
+12/22/2024 10:14:04 DEBUG devpinoyLogger:63 - Hello
+12/22/2024 10:14:04 DEBUG devpinoyLogger:64 - Properties loaded. Starting testing
+12/22/2024 10:14:04 DEBUG devpinoyLogger:70 - Intialize Suite xlsx
+12/22/2024 10:14:04 DEBUG devpinoyLogger:75 - NegativeScenarios -- N
+12/22/2024 10:14:04 DEBUG devpinoyLogger:75 - P1TestCases -- N
+12/22/2024 10:14:04 DEBUG devpinoyLogger:75 - P2TestCases1 -- N
+12/22/2024 10:14:04 DEBUG devpinoyLogger:75 - P2TestCases2 -- N
+12/22/2024 10:14:04 DEBUG devpinoyLogger:75 - THPlaceOrder -- Y
+12/22/2024 10:14:04 DEBUG devpinoyLogger:83 - ******Executing the Suite******THPlaceOrder
+12/22/2024 10:14:04 DEBUG devpinoyLogger:89 - Placing Order with 2C2P -- Y
+12/22/2024 10:14:04 DEBUG devpinoyLogger:98 - Executing the test case -> Placing Order with 2C2P
+12/22/2024 10:14:04 DEBUG devpinoyLogger:152 - openBrowser2
+12/22/2024 10:14:04 DEBUG devpinoyLogger:198 - Opening browser
+12/22/2024 10:14:07 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:07 DEBUG devpinoyLogger:152 - navigate
+12/22/2024 10:14:07 DEBUG devpinoyLogger:772 - Navigating to URL
+12/22/2024 10:14:20 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:20 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:24 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:24 DEBUG devpinoyLogger:152 - pumaCookies
+12/22/2024 10:14:24 DEBUG devpinoyLogger:555 - Accept Cookies
+12/22/2024 10:14:24 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:24 DEBUG devpinoyLogger:152 - pumaPopupClose
+12/22/2024 10:14:24 DEBUG devpinoyLogger:539 - Puma Popup Close
+12/22/2024 10:14:24 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:24 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:26 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:26 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:14:26 DEBUG devpinoyLogger:782 - Clicking on link or button QuickLinks
+12/22/2024 10:14:26 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:26 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:28 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:28 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:14:28 DEBUG devpinoyLogger:782 - Clicking on link or button QuickLink_Login
+12/22/2024 10:14:32 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:32 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:34 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:34 DEBUG devpinoyLogger:152 - pumaCookies
+12/22/2024 10:14:34 DEBUG devpinoyLogger:555 - Accept Cookies
+12/22/2024 10:14:34 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:34 DEBUG devpinoyLogger:152 - pumaPopupClose
+12/22/2024 10:14:34 DEBUG devpinoyLogger:539 - Puma Popup Close
+12/22/2024 10:14:34 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:34 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:14:34 DEBUG devpinoyLogger:782 - Clicking on link or button LoginWithEmail
+12/22/2024 10:14:35 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:35 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:36 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:36 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:14:36 DEBUG devpinoyLogger:1083 - Writing in text box Login_Email
+12/22/2024 10:14:36 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:36 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:14:36 DEBUG devpinoyLogger:1083 - Writing in text box Login_Password
+12/22/2024 10:14:36 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:36 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:14:36 DEBUG devpinoyLogger:782 - Clicking on link or button Login_Button
+12/22/2024 10:14:36 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:36 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:41 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:41 DEBUG devpinoyLogger:152 - mouseHover
+12/22/2024 10:14:41 DEBUG devpinoyLogger:1800 - Mouse Hovering to the element
+12/22/2024 10:14:44 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:44 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:45 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:45 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:14:45 DEBUG devpinoyLogger:782 - Clicking on link or button Women_Shoes
+12/22/2024 10:14:54 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:54 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:14:58 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:14:58 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:14:58 DEBUG devpinoyLogger:782 - Clicking on link or button Product1
+12/22/2024 10:15:02 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:02 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:07 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:07 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:07 DEBUG devpinoyLogger:782 - Clicking on link or button PDP_Size1
+12/22/2024 10:15:07 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:07 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:07 DEBUG devpinoyLogger:782 - Clicking on link or button PDP_AddToCart
+12/22/2024 10:15:07 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:07 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:09 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:09 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:09 DEBUG devpinoyLogger:782 - Clicking on link or button Popup_Checkout
+12/22/2024 10:15:15 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:15 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:18 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:18 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:18 DEBUG devpinoyLogger:782 - Clicking on link or button ContinueToPaymentMethod
+12/22/2024 10:15:19 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:19 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:21 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:21 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:21 DEBUG devpinoyLogger:782 - Clicking on link or button Pay_Credit_DebitCard
+12/22/2024 10:15:21 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:21 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:22 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:22 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:22 DEBUG devpinoyLogger:782 - Clicking on link or button ContinueToReviewPay
+12/22/2024 10:15:22 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:22 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:23 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:23 DEBUG devpinoyLogger:152 - clickButton
+12/22/2024 10:15:23 DEBUG devpinoyLogger:853 - Clicking on Button
+12/22/2024 10:15:23 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:23 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:24 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:24 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:15:24 DEBUG devpinoyLogger:1083 - Writing in text box CardNumber
+12/22/2024 10:15:28 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:28 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:29 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:29 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:15:29 DEBUG devpinoyLogger:1083 - Writing in text box ExpiryDate
+12/22/2024 10:15:29 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:29 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:15:29 DEBUG devpinoyLogger:1083 - Writing in text box CVV
+12/22/2024 10:15:29 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:29 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:15:29 DEBUG devpinoyLogger:1083 - Writing in text box CardholderName
+12/22/2024 10:15:29 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:29 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:15:29 DEBUG devpinoyLogger:1083 - Writing in text box CardEmail
+12/22/2024 10:15:29 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:29 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:29 DEBUG devpinoyLogger:782 - Clicking on link or button ContinuePayment
+12/22/2024 10:15:30 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:30 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:34 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:34 DEBUG devpinoyLogger:152 - writeInInput
+12/22/2024 10:15:34 DEBUG devpinoyLogger:1083 - Writing in text box OTP
+12/22/2024 10:15:47 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:47 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:47 DEBUG devpinoyLogger:782 - Clicking on link or button Submit
+12/22/2024 10:15:47 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:47 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:15:50 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:50 DEBUG devpinoyLogger:152 - enablehidden
+12/22/2024 10:15:50 DEBUG devpinoyLogger:782 - Clicking on link or button BackToMerchant
+12/22/2024 10:15:59 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:15:59 DEBUG devpinoyLogger:152 - pause
+12/22/2024 10:16:07 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:16:07 DEBUG devpinoyLogger:152 - fetchordernumber
+12/22/2024 10:16:07 DEBUG devpinoyLogger:2258 - Fetching the order number
+12/22/2024 10:16:11 DEBUG devpinoyLogger:160 - PASS Order Number : --> ORDER NUMBER: STGTH00016499
+12/22/2024 10:16:11 DEBUG devpinoyLogger:152 - fetchPaymentDetail
+12/22/2024 10:16:11 DEBUG devpinoyLogger:2281 - Fetching the order number
+12/22/2024 10:16:15 DEBUG devpinoyLogger:160 - PASS Payment Details : --> Credit/Debit Card/QR PromptPay
+Amount: ฿ 2,500.00
+12/22/2024 10:16:15 DEBUG devpinoyLogger:152 - quitBrowser
+12/22/2024 10:16:15 DEBUG devpinoyLogger:1271 - Closing the browser
+12/22/2024 10:16:16 DEBUG devpinoyLogger:160 - PASS
+12/22/2024 10:16:19 DEBUG devpinoyLogger:89 - Placing Order with COD without OTP -- N
